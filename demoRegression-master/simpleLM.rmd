@@ -72,3 +72,4 @@ summary.lm(simp)
 
 ## Compare all models that predict LENGTH other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better. 
 
+According to residual standard error, the best model to predict length is HEADLEN(Head Length) with the lowest RSE of 4.235.  The next best option is CHEST with a RSE of 4.939.  The third best is NECK with a RSE of 5.376, the fourth best is WEIGHT with a RSE of 5.376, the figth best is HEADWTH (Head Width) with a RSE of 7.32, and the worst for predectiing length is AGE with a high RSE of 7.511.  
